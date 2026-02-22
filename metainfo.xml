@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="BB2CF6C3-4C01-40DD-9F9E-4E1AEFDF1465" version="0">
+	<info>
+		<title>PTS PAI Grade 7T Semester 2 2526</title>
+		<description/>
+	</info>
+	<files index="id21" thumbnail="id17" totalSize="3505164">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/html5-unsupported.html</file>
+		<file id="id9">data/images/img-00ba9008510b385b2ea7c3dfb6887a9c1bd73757.jpg</file>
+		<file id="id10">data/images/img-3e4b245ce88b02ad1bd52a9f6250d2214958caaf.jpg</file>
+		<file id="id11">data/images/img-909efd61a5c1b32679bc4a12594af9eb6d3e7c4e.jpg</file>
+		<file id="id12">data/images/img-a8659ad5e9b98919c144f3c733b6bb447c258e79.jpg</file>
+		<file id="id13">data/images/img-ac5c096b6af0adc69392a32909226d57d0caeae7.jpg</file>
+		<file id="id14">data/images/img-fb405a0ca96c35b16eef93409f9078f98e4bfebb.jpg</file>
+		<file id="id15">data/ismplayer/app_store2x.png</file>
+		<file id="id16">data/ismplayer/play.svg</file>
+		<file id="id17">data/ismplayer/preview.png</file>
+		<file id="id18">data/ismplayer/style.css</file>
+		<file id="id19">data/ismplayer/style_mini.css</file>
+		<file id="id20">data/player.js</file>
+		<file id="id21">index.html</file>
+		<file id="id22">ismplayer.html</file>
+		<file id="id23">preview.png</file>
+	</files>
+</presentation>
+
